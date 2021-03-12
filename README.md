@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bellzcodes
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning devops
+- 🌱 I’m currently learning Java, jfrog
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me email
 
